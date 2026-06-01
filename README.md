@@ -6,7 +6,8 @@
 6. With qgis2web extention, web - export
 7. Save the new exported files into kenhudak.github.io folder (overwrite)
 8. Launch GitHub from that folder
-9. Git Status
-10. Git Add .
-11. Git Commit -m "the update message text"
-12. Git Push
+9. Git Pull
+10. Git Status
+11. Git Add .
+12. Git Commit -m "the update message text"
+13. Git Push
