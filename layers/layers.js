@@ -22,7 +22,7 @@ var lyr_BeaverValleytracks_1 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BeaverValleytracks_1, 
                 style: style_BeaverValleytracks_1,
-                popuplayertitle: "Beaver Valley — tracks",
+                popuplayertitle: 'Beaver Valley — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BeaverValleytracks_1.png" /> Beaver Valley — tracks'
             });
@@ -37,7 +37,7 @@ var lyr_BlueMountaintracks_2 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BlueMountaintracks_2, 
                 style: style_BlueMountaintracks_2,
-                popuplayertitle: "Blue Mountain — tracks",
+                popuplayertitle: 'Blue Mountain — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BlueMountaintracks_2.png" /> Blue Mountain — tracks'
             });
@@ -52,7 +52,7 @@ var lyr_DufferinSectiontracks_3 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_DufferinSectiontracks_3, 
                 style: style_DufferinSectiontracks_3,
-                popuplayertitle: "Dufferin Section — tracks",
+                popuplayertitle: 'Dufferin Section — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/DufferinSectiontracks_3.png" /> Dufferin Section — tracks'
             });
@@ -67,7 +67,7 @@ var lyr_Niagara_Section_of_the_Brucetracks_4 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Niagara_Section_of_the_Brucetracks_4, 
                 style: style_Niagara_Section_of_the_Brucetracks_4,
-                popuplayertitle: "Niagara_Section_of_the_Bruce — tracks",
+                popuplayertitle: 'Niagara_Section_of_the_Bruce — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/Niagara_Section_of_the_Brucetracks_4.png" /> Niagara_Section_of_the_Bruce — tracks'
             });
@@ -82,7 +82,7 @@ var lyr_Bruce_Trail_Toronto_Section_20210410tracks_5 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Bruce_Trail_Toronto_Section_20210410tracks_5, 
                 style: style_Bruce_Trail_Toronto_Section_20210410tracks_5,
-                popuplayertitle: "Bruce_Trail_Toronto_Section_20210410 — tracks",
+                popuplayertitle: 'Bruce_Trail_Toronto_Section_20210410 — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/Bruce_Trail_Toronto_Section_20210410tracks_5.png" /> Bruce_Trail_Toronto_Section_20210410 — tracks'
             });
@@ -97,7 +97,7 @@ var lyr_Peninsulatracks_6 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Peninsulatracks_6, 
                 style: style_Peninsulatracks_6,
-                popuplayertitle: "Peninsula  — tracks",
+                popuplayertitle: 'Peninsula  — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/Peninsulatracks_6.png" /> Peninsula  — tracks'
             });
@@ -112,7 +112,7 @@ var lyr_BruceTrail_CaledonHillsSectiontracks_7 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BruceTrail_CaledonHillsSectiontracks_7, 
                 style: style_BruceTrail_CaledonHillsSectiontracks_7,
-                popuplayertitle: "Bruce Trail_ Caledon Hills Section — tracks",
+                popuplayertitle: 'Bruce Trail_ Caledon Hills Section — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BruceTrail_CaledonHillsSectiontracks_7.png" /> Bruce Trail_ Caledon Hills Section — tracks'
             });
@@ -127,7 +127,7 @@ var lyr_BruceTrail_IroquoiaSectiontracks_8 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BruceTrail_IroquoiaSectiontracks_8, 
                 style: style_BruceTrail_IroquoiaSectiontracks_8,
-                popuplayertitle: "Bruce Trail_ Iroquoia Section — tracks",
+                popuplayertitle: 'Bruce Trail_ Iroquoia Section — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BruceTrail_IroquoiaSectiontracks_8.png" /> Bruce Trail_ Iroquoia Section — tracks'
             });
@@ -142,7 +142,7 @@ var lyr_Sydenhamtracks_9 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Sydenhamtracks_9, 
                 style: style_Sydenhamtracks_9,
-                popuplayertitle: "Sydenham  — tracks",
+                popuplayertitle: 'Sydenham  — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/Sydenhamtracks_9.png" /> Sydenham  — tracks'
             });
@@ -157,7 +157,7 @@ var lyr_BlueMnt102024tracks_10 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BlueMnt102024tracks_10, 
                 style: style_BlueMnt102024tracks_10,
-                popuplayertitle: "BlueMnt 10-20-24 — tracks",
+                popuplayertitle: 'BlueMnt 10-20-24 — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BlueMnt102024tracks_10.png" /> BlueMnt 10-20-24 — tracks'
             });
@@ -172,7 +172,7 @@ var lyr_BlueMnt102124tracks_11 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BlueMnt102124tracks_11, 
                 style: style_BlueMnt102124tracks_11,
-                popuplayertitle: "BlueMnt 10-21-24 — tracks",
+                popuplayertitle: 'BlueMnt 10-21-24 — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BlueMnt102124tracks_11.png" /> BlueMnt 10-21-24 — tracks'
             });
@@ -187,7 +187,7 @@ var lyr_BlueMnt102224tracks_12 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BlueMnt102224tracks_12, 
                 style: style_BlueMnt102224tracks_12,
-                popuplayertitle: "BlueMnt 10-22-24 — tracks",
+                popuplayertitle: 'BlueMnt 10-22-24 — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BlueMnt102224tracks_12.png" /> BlueMnt 10-22-24 — tracks'
             });
@@ -202,7 +202,7 @@ var lyr_BlueMnt102224_2tracks_13 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BlueMnt102224_2tracks_13, 
                 style: style_BlueMnt102224_2tracks_13,
-                popuplayertitle: "BlueMnt 10-22-24_2 — tracks",
+                popuplayertitle: 'BlueMnt 10-22-24_2 — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BlueMnt102224_2tracks_13.png" /> BlueMnt 10-22-24_2 — tracks'
             });
@@ -217,7 +217,7 @@ var lyr_BlueMnt102324tracks_14 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BlueMnt102324tracks_14, 
                 style: style_BlueMnt102324tracks_14,
-                popuplayertitle: "BlueMnt 10-23-24 — tracks",
+                popuplayertitle: 'BlueMnt 10-23-24 — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BlueMnt102324tracks_14.png" /> BlueMnt 10-23-24 — tracks'
             });
@@ -232,7 +232,7 @@ var lyr_BlueMnt102424tracks_15 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_BlueMnt102424tracks_15, 
                 style: style_BlueMnt102424tracks_15,
-                popuplayertitle: "BlueMnt 10-24-24 — tracks",
+                popuplayertitle: 'BlueMnt 10-24-24 — tracks',
                 interactive: true,
                 title: '<img src="styles/legend/BlueMnt102424tracks_15.png" /> BlueMnt 10-24-24 — tracks'
             });
@@ -247,88 +247,118 @@ var lyr_FallingWatersEventShapefile_16 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_FallingWatersEventShapefile_16, 
                 style: style_FallingWatersEventShapefile_16,
-                popuplayertitle: "FallingWatersEventShapefile",
+                popuplayertitle: 'FallingWatersEventShapefile',
                 interactive: true,
                 title: '<img src="styles/legend/FallingWatersEventShapefile_16.png" /> FallingWatersEventShapefile'
             });
-var format_Merrithonactivity_12703574676tracks_17 = new ol.format.GeoJSON();
-var features_Merrithonactivity_12703574676tracks_17 = format_Merrithonactivity_12703574676tracks_17.readFeatures(json_Merrithonactivity_12703574676tracks_17, 
+var format_ham_5182026_activity_22928885421tracks_17 = new ol.format.GeoJSON();
+var features_ham_5182026_activity_22928885421tracks_17 = format_ham_5182026_activity_22928885421tracks_17.readFeatures(json_ham_5182026_activity_22928885421tracks_17, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
-var jsonSource_Merrithonactivity_12703574676tracks_17 = new ol.source.Vector({
+var jsonSource_ham_5182026_activity_22928885421tracks_17 = new ol.source.Vector({
     attributions: ' ',
 });
-jsonSource_Merrithonactivity_12703574676tracks_17.addFeatures(features_Merrithonactivity_12703574676tracks_17);
-var lyr_Merrithonactivity_12703574676tracks_17 = new ol.layer.Vector({
+jsonSource_ham_5182026_activity_22928885421tracks_17.addFeatures(features_ham_5182026_activity_22928885421tracks_17);
+var lyr_ham_5182026_activity_22928885421tracks_17 = new ol.layer.Vector({
                 declutter: false,
-                source:jsonSource_Merrithonactivity_12703574676tracks_17, 
-                style: style_Merrithonactivity_12703574676tracks_17,
-                popuplayertitle: "Merrithonactivity_12703574676 — tracks",
+                source:jsonSource_ham_5182026_activity_22928885421tracks_17, 
+                style: style_ham_5182026_activity_22928885421tracks_17,
+                popuplayertitle: 'ham_5182026_activity_22928885421 — tracks',
                 interactive: true,
-                title: '<img src="styles/legend/Merrithonactivity_12703574676tracks_17.png" /> Merrithonactivity_12703574676 — tracks'
+                title: '<img src="styles/legend/ham_5182026_activity_22928885421tracks_17.png" /> ham_5182026_activity_22928885421 — tracks'
             });
-var format_BlueMntn5182025tracks_18 = new ol.format.GeoJSON();
-var features_BlueMntn5182025tracks_18 = format_BlueMntn5182025tracks_18.readFeatures(json_BlueMntn5182025tracks_18, 
+var format_ham_5192026_am_activity_22939818045tracks_18 = new ol.format.GeoJSON();
+var features_ham_5192026_am_activity_22939818045tracks_18 = format_ham_5192026_am_activity_22939818045tracks_18.readFeatures(json_ham_5192026_am_activity_22939818045tracks_18, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
-var jsonSource_BlueMntn5182025tracks_18 = new ol.source.Vector({
+var jsonSource_ham_5192026_am_activity_22939818045tracks_18 = new ol.source.Vector({
     attributions: ' ',
 });
-jsonSource_BlueMntn5182025tracks_18.addFeatures(features_BlueMntn5182025tracks_18);
-var lyr_BlueMntn5182025tracks_18 = new ol.layer.Vector({
+jsonSource_ham_5192026_am_activity_22939818045tracks_18.addFeatures(features_ham_5192026_am_activity_22939818045tracks_18);
+var lyr_ham_5192026_am_activity_22939818045tracks_18 = new ol.layer.Vector({
                 declutter: false,
-                source:jsonSource_BlueMntn5182025tracks_18, 
-                style: style_BlueMntn5182025tracks_18,
-                popuplayertitle: "Blue Mntn 5-18-2025 — tracks",
+                source:jsonSource_ham_5192026_am_activity_22939818045tracks_18, 
+                style: style_ham_5192026_am_activity_22939818045tracks_18,
+                popuplayertitle: 'ham_5192026_am_activity_22939818045 — tracks',
                 interactive: true,
-                title: '<img src="styles/legend/BlueMntn5182025tracks_18.png" /> Blue Mntn 5-18-2025 — tracks'
+                title: '<img src="styles/legend/ham_5192026_am_activity_22939818045tracks_18.png" /> ham_5192026_am_activity_22939818045 — tracks'
             });
-var format_Dufferin5192025tracks_19 = new ol.format.GeoJSON();
-var features_Dufferin5192025tracks_19 = format_Dufferin5192025tracks_19.readFeatures(json_Dufferin5192025tracks_19, 
+var format_Merrithonactivity_12703574676tracks_19 = new ol.format.GeoJSON();
+var features_Merrithonactivity_12703574676tracks_19 = format_Merrithonactivity_12703574676tracks_19.readFeatures(json_Merrithonactivity_12703574676tracks_19, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
-var jsonSource_Dufferin5192025tracks_19 = new ol.source.Vector({
+var jsonSource_Merrithonactivity_12703574676tracks_19 = new ol.source.Vector({
     attributions: ' ',
 });
-jsonSource_Dufferin5192025tracks_19.addFeatures(features_Dufferin5192025tracks_19);
-var lyr_Dufferin5192025tracks_19 = new ol.layer.Vector({
+jsonSource_Merrithonactivity_12703574676tracks_19.addFeatures(features_Merrithonactivity_12703574676tracks_19);
+var lyr_Merrithonactivity_12703574676tracks_19 = new ol.layer.Vector({
                 declutter: false,
-                source:jsonSource_Dufferin5192025tracks_19, 
-                style: style_Dufferin5192025tracks_19,
-                popuplayertitle: "Dufferin 5-19-2025 — tracks",
+                source:jsonSource_Merrithonactivity_12703574676tracks_19, 
+                style: style_Merrithonactivity_12703574676tracks_19,
+                popuplayertitle: 'Merrithonactivity_12703574676 — tracks',
                 interactive: true,
-                title: '<img src="styles/legend/Dufferin5192025tracks_19.png" /> Dufferin 5-19-2025 — tracks'
+                title: '<img src="styles/legend/Merrithonactivity_12703574676tracks_19.png" /> Merrithonactivity_12703574676 — tracks'
             });
-var format_BurlingtonDay1activity_20590461353tracks_20 = new ol.format.GeoJSON();
-var features_BurlingtonDay1activity_20590461353tracks_20 = format_BurlingtonDay1activity_20590461353tracks_20.readFeatures(json_BurlingtonDay1activity_20590461353tracks_20, 
+var format_BlueMntn5182025tracks_20 = new ol.format.GeoJSON();
+var features_BlueMntn5182025tracks_20 = format_BlueMntn5182025tracks_20.readFeatures(json_BlueMntn5182025tracks_20, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
-var jsonSource_BurlingtonDay1activity_20590461353tracks_20 = new ol.source.Vector({
+var jsonSource_BlueMntn5182025tracks_20 = new ol.source.Vector({
     attributions: ' ',
 });
-jsonSource_BurlingtonDay1activity_20590461353tracks_20.addFeatures(features_BurlingtonDay1activity_20590461353tracks_20);
-var lyr_BurlingtonDay1activity_20590461353tracks_20 = new ol.layer.Vector({
+jsonSource_BlueMntn5182025tracks_20.addFeatures(features_BlueMntn5182025tracks_20);
+var lyr_BlueMntn5182025tracks_20 = new ol.layer.Vector({
                 declutter: false,
-                source:jsonSource_BurlingtonDay1activity_20590461353tracks_20, 
-                style: style_BurlingtonDay1activity_20590461353tracks_20,
-                popuplayertitle: "Burlington Day 1activity_20590461353 — tracks",
+                source:jsonSource_BlueMntn5182025tracks_20, 
+                style: style_BlueMntn5182025tracks_20,
+                popuplayertitle: 'Blue Mntn 5-18-2025 — tracks',
                 interactive: true,
-                title: '<img src="styles/legend/BurlingtonDay1activity_20590461353tracks_20.png" /> Burlington Day 1activity_20590461353 — tracks'
+                title: '<img src="styles/legend/BlueMntn5182025tracks_20.png" /> Blue Mntn 5-18-2025 — tracks'
             });
-var format_BurlingtonDay2activity_20601435417tracks_21 = new ol.format.GeoJSON();
-var features_BurlingtonDay2activity_20601435417tracks_21 = format_BurlingtonDay2activity_20601435417tracks_21.readFeatures(json_BurlingtonDay2activity_20601435417tracks_21, 
+var format_Dufferin5192025tracks_21 = new ol.format.GeoJSON();
+var features_Dufferin5192025tracks_21 = format_Dufferin5192025tracks_21.readFeatures(json_Dufferin5192025tracks_21, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
-var jsonSource_BurlingtonDay2activity_20601435417tracks_21 = new ol.source.Vector({
+var jsonSource_Dufferin5192025tracks_21 = new ol.source.Vector({
     attributions: ' ',
 });
-jsonSource_BurlingtonDay2activity_20601435417tracks_21.addFeatures(features_BurlingtonDay2activity_20601435417tracks_21);
-var lyr_BurlingtonDay2activity_20601435417tracks_21 = new ol.layer.Vector({
+jsonSource_Dufferin5192025tracks_21.addFeatures(features_Dufferin5192025tracks_21);
+var lyr_Dufferin5192025tracks_21 = new ol.layer.Vector({
                 declutter: false,
-                source:jsonSource_BurlingtonDay2activity_20601435417tracks_21, 
-                style: style_BurlingtonDay2activity_20601435417tracks_21,
-                popuplayertitle: "Burlington Day 2activity_20601435417 — tracks",
+                source:jsonSource_Dufferin5192025tracks_21, 
+                style: style_Dufferin5192025tracks_21,
+                popuplayertitle: 'Dufferin 5-19-2025 — tracks',
                 interactive: true,
-                title: '<img src="styles/legend/BurlingtonDay2activity_20601435417tracks_21.png" /> Burlington Day 2activity_20601435417 — tracks'
+                title: '<img src="styles/legend/Dufferin5192025tracks_21.png" /> Dufferin 5-19-2025 — tracks'
+            });
+var format_BurlingtonDay1activity_20590461353tracks_22 = new ol.format.GeoJSON();
+var features_BurlingtonDay1activity_20590461353tracks_22 = format_BurlingtonDay1activity_20590461353tracks_22.readFeatures(json_BurlingtonDay1activity_20590461353tracks_22, 
+            {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
+var jsonSource_BurlingtonDay1activity_20590461353tracks_22 = new ol.source.Vector({
+    attributions: ' ',
+});
+jsonSource_BurlingtonDay1activity_20590461353tracks_22.addFeatures(features_BurlingtonDay1activity_20590461353tracks_22);
+var lyr_BurlingtonDay1activity_20590461353tracks_22 = new ol.layer.Vector({
+                declutter: false,
+                source:jsonSource_BurlingtonDay1activity_20590461353tracks_22, 
+                style: style_BurlingtonDay1activity_20590461353tracks_22,
+                popuplayertitle: 'Burlington Day 1activity_20590461353 — tracks',
+                interactive: true,
+                title: '<img src="styles/legend/BurlingtonDay1activity_20590461353tracks_22.png" /> Burlington Day 1activity_20590461353 — tracks'
+            });
+var format_BurlingtonDay2activity_20601435417tracks_23 = new ol.format.GeoJSON();
+var features_BurlingtonDay2activity_20601435417tracks_23 = format_BurlingtonDay2activity_20601435417tracks_23.readFeatures(json_BurlingtonDay2activity_20601435417tracks_23, 
+            {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
+var jsonSource_BurlingtonDay2activity_20601435417tracks_23 = new ol.source.Vector({
+    attributions: ' ',
+});
+jsonSource_BurlingtonDay2activity_20601435417tracks_23.addFeatures(features_BurlingtonDay2activity_20601435417tracks_23);
+var lyr_BurlingtonDay2activity_20601435417tracks_23 = new ol.layer.Vector({
+                declutter: false,
+                source:jsonSource_BurlingtonDay2activity_20601435417tracks_23, 
+                style: style_BurlingtonDay2activity_20601435417tracks_23,
+                popuplayertitle: 'Burlington Day 2activity_20601435417 — tracks',
+                interactive: true,
+                title: '<img src="styles/legend/BurlingtonDay2activity_20601435417tracks_23.png" /> Burlington Day 2activity_20601435417 — tracks'
             });
 
-lyr_OpenStreetMap_0.setVisible(true);lyr_BeaverValleytracks_1.setVisible(true);lyr_BlueMountaintracks_2.setVisible(true);lyr_DufferinSectiontracks_3.setVisible(true);lyr_Niagara_Section_of_the_Brucetracks_4.setVisible(true);lyr_Bruce_Trail_Toronto_Section_20210410tracks_5.setVisible(true);lyr_Peninsulatracks_6.setVisible(true);lyr_BruceTrail_CaledonHillsSectiontracks_7.setVisible(true);lyr_BruceTrail_IroquoiaSectiontracks_8.setVisible(true);lyr_Sydenhamtracks_9.setVisible(true);lyr_BlueMnt102024tracks_10.setVisible(true);lyr_BlueMnt102124tracks_11.setVisible(true);lyr_BlueMnt102224tracks_12.setVisible(true);lyr_BlueMnt102224_2tracks_13.setVisible(true);lyr_BlueMnt102324tracks_14.setVisible(true);lyr_BlueMnt102424tracks_15.setVisible(true);lyr_FallingWatersEventShapefile_16.setVisible(true);lyr_Merrithonactivity_12703574676tracks_17.setVisible(true);lyr_BlueMntn5182025tracks_18.setVisible(true);lyr_Dufferin5192025tracks_19.setVisible(true);lyr_BurlingtonDay1activity_20590461353tracks_20.setVisible(true);lyr_BurlingtonDay2activity_20601435417tracks_21.setVisible(true);
-var layersList = [lyr_OpenStreetMap_0,lyr_BeaverValleytracks_1,lyr_BlueMountaintracks_2,lyr_DufferinSectiontracks_3,lyr_Niagara_Section_of_the_Brucetracks_4,lyr_Bruce_Trail_Toronto_Section_20210410tracks_5,lyr_Peninsulatracks_6,lyr_BruceTrail_CaledonHillsSectiontracks_7,lyr_BruceTrail_IroquoiaSectiontracks_8,lyr_Sydenhamtracks_9,lyr_BlueMnt102024tracks_10,lyr_BlueMnt102124tracks_11,lyr_BlueMnt102224tracks_12,lyr_BlueMnt102224_2tracks_13,lyr_BlueMnt102324tracks_14,lyr_BlueMnt102424tracks_15,lyr_FallingWatersEventShapefile_16,lyr_Merrithonactivity_12703574676tracks_17,lyr_BlueMntn5182025tracks_18,lyr_Dufferin5192025tracks_19,lyr_BurlingtonDay1activity_20590461353tracks_20,lyr_BurlingtonDay2activity_20601435417tracks_21];
+lyr_OpenStreetMap_0.setVisible(true);lyr_BeaverValleytracks_1.setVisible(true);lyr_BlueMountaintracks_2.setVisible(true);lyr_DufferinSectiontracks_3.setVisible(true);lyr_Niagara_Section_of_the_Brucetracks_4.setVisible(true);lyr_Bruce_Trail_Toronto_Section_20210410tracks_5.setVisible(true);lyr_Peninsulatracks_6.setVisible(true);lyr_BruceTrail_CaledonHillsSectiontracks_7.setVisible(true);lyr_BruceTrail_IroquoiaSectiontracks_8.setVisible(true);lyr_Sydenhamtracks_9.setVisible(true);lyr_BlueMnt102024tracks_10.setVisible(true);lyr_BlueMnt102124tracks_11.setVisible(true);lyr_BlueMnt102224tracks_12.setVisible(true);lyr_BlueMnt102224_2tracks_13.setVisible(true);lyr_BlueMnt102324tracks_14.setVisible(true);lyr_BlueMnt102424tracks_15.setVisible(true);lyr_FallingWatersEventShapefile_16.setVisible(true);lyr_ham_5182026_activity_22928885421tracks_17.setVisible(true);lyr_ham_5192026_am_activity_22939818045tracks_18.setVisible(true);lyr_Merrithonactivity_12703574676tracks_19.setVisible(true);lyr_BlueMntn5182025tracks_20.setVisible(true);lyr_Dufferin5192025tracks_21.setVisible(true);lyr_BurlingtonDay1activity_20590461353tracks_22.setVisible(true);lyr_BurlingtonDay2activity_20601435417tracks_23.setVisible(true);
+var layersList = [lyr_OpenStreetMap_0,lyr_BeaverValleytracks_1,lyr_BlueMountaintracks_2,lyr_DufferinSectiontracks_3,lyr_Niagara_Section_of_the_Brucetracks_4,lyr_Bruce_Trail_Toronto_Section_20210410tracks_5,lyr_Peninsulatracks_6,lyr_BruceTrail_CaledonHillsSectiontracks_7,lyr_BruceTrail_IroquoiaSectiontracks_8,lyr_Sydenhamtracks_9,lyr_BlueMnt102024tracks_10,lyr_BlueMnt102124tracks_11,lyr_BlueMnt102224tracks_12,lyr_BlueMnt102224_2tracks_13,lyr_BlueMnt102324tracks_14,lyr_BlueMnt102424tracks_15,lyr_FallingWatersEventShapefile_16,lyr_ham_5182026_activity_22928885421tracks_17,lyr_ham_5192026_am_activity_22939818045tracks_18,lyr_Merrithonactivity_12703574676tracks_19,lyr_BlueMntn5182025tracks_20,lyr_Dufferin5192025tracks_21,lyr_BurlingtonDay1activity_20590461353tracks_22,lyr_BurlingtonDay2activity_20601435417tracks_23];
 lyr_BeaverValleytracks_1.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
 lyr_BlueMountaintracks_2.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
 lyr_DufferinSectiontracks_3.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
@@ -345,11 +375,13 @@ lyr_BlueMnt102224_2tracks_13.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 
 lyr_BlueMnt102324tracks_14.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
 lyr_BlueMnt102424tracks_15.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
 lyr_FallingWatersEventShapefile_16.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
-lyr_Merrithonactivity_12703574676tracks_17.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
-lyr_BlueMntn5182025tracks_18.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
-lyr_Dufferin5192025tracks_19.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
-lyr_BurlingtonDay1activity_20590461353tracks_20.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
-lyr_BurlingtonDay2activity_20601435417tracks_21.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
+lyr_ham_5182026_activity_22928885421tracks_17.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
+lyr_ham_5192026_am_activity_22939818045tracks_18.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
+lyr_Merrithonactivity_12703574676tracks_19.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
+lyr_BlueMntn5182025tracks_20.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
+lyr_Dufferin5192025tracks_21.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
+lyr_BurlingtonDay1activity_20590461353tracks_22.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
+lyr_BurlingtonDay2activity_20601435417tracks_23.set('fieldAliases', {'name': 'name', 'cmt': 'cmt', 'desc': 'desc', 'src': 'src', 'link1_href': 'link1_href', 'link1_text': 'link1_text', 'link1_type': 'link1_type', 'link2_href': 'link2_href', 'link2_text': 'link2_text', 'link2_type': 'link2_type', 'number': 'number', 'type': 'type', });
 lyr_BeaverValleytracks_1.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
 lyr_BlueMountaintracks_2.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
 lyr_DufferinSectiontracks_3.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
@@ -366,11 +398,13 @@ lyr_BlueMnt102224_2tracks_13.set('fieldImages', {'name': 'TextEdit', 'cmt': 'Tex
 lyr_BlueMnt102324tracks_14.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
 lyr_BlueMnt102424tracks_15.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
 lyr_FallingWatersEventShapefile_16.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'TextEdit', 'type': 'TextEdit', });
-lyr_Merrithonactivity_12703574676tracks_17.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
-lyr_BlueMntn5182025tracks_18.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
-lyr_Dufferin5192025tracks_19.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
-lyr_BurlingtonDay1activity_20590461353tracks_20.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
-lyr_BurlingtonDay2activity_20601435417tracks_21.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
+lyr_ham_5182026_activity_22928885421tracks_17.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
+lyr_ham_5192026_am_activity_22939818045tracks_18.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
+lyr_Merrithonactivity_12703574676tracks_19.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
+lyr_BlueMntn5182025tracks_20.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
+lyr_Dufferin5192025tracks_21.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
+lyr_BurlingtonDay1activity_20590461353tracks_22.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
+lyr_BurlingtonDay2activity_20601435417tracks_23.set('fieldImages', {'name': 'TextEdit', 'cmt': 'TextEdit', 'desc': 'TextEdit', 'src': 'TextEdit', 'link1_href': 'TextEdit', 'link1_text': 'TextEdit', 'link1_type': 'TextEdit', 'link2_href': 'TextEdit', 'link2_text': 'TextEdit', 'link2_type': 'TextEdit', 'number': 'Range', 'type': 'TextEdit', });
 lyr_BeaverValleytracks_1.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_BlueMountaintracks_2.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_DufferinSectiontracks_3.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
@@ -387,11 +421,13 @@ lyr_BlueMnt102224_2tracks_13.set('fieldLabels', {'name': 'no label', 'cmt': 'no 
 lyr_BlueMnt102324tracks_14.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_BlueMnt102424tracks_15.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_FallingWatersEventShapefile_16.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
-lyr_Merrithonactivity_12703574676tracks_17.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
-lyr_BlueMntn5182025tracks_18.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
-lyr_Dufferin5192025tracks_19.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
-lyr_BurlingtonDay1activity_20590461353tracks_20.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
-lyr_BurlingtonDay2activity_20601435417tracks_21.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
-lyr_BurlingtonDay2activity_20601435417tracks_21.on('precompose', function(evt) {
+lyr_ham_5182026_activity_22928885421tracks_17.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
+lyr_ham_5192026_am_activity_22939818045tracks_18.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
+lyr_Merrithonactivity_12703574676tracks_19.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
+lyr_BlueMntn5182025tracks_20.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
+lyr_Dufferin5192025tracks_21.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
+lyr_BurlingtonDay1activity_20590461353tracks_22.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
+lyr_BurlingtonDay2activity_20601435417tracks_23.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
+lyr_BurlingtonDay2activity_20601435417tracks_23.on('precompose', function(evt) {
     evt.context.globalCompositeOperation = 'normal';
 });
