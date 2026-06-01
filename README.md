@@ -4,4 +4,9 @@
 4. Add new layers to existing map. Only select "tracks" from the import
 5. Line color is ffda00 with 0.80 width
 6. With qgis2web extention, web - export
-7. 
+7. Save the new exported files into kenhudak.github.io folder (overwrite)
+8. Launch GitHub from that folder
+9. Git Status
+10. Git Add .
+11. Git Commit -m "the update message text"
+12. Git Push
